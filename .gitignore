@@ -2,3 +2,10 @@ mac/amblib.xcodeproj/xcuserdata
 mac/amblib.xcodeproj/project.xcworkspace/xcshareddata
 mac/amblib.xcodeproj/project.xcworkspace/xcuserdata
 mac/DerivedData
+*.db
+*.suo
+*.opendb
+*.log
+*.obj
+win/Debug/
+win/Release/
