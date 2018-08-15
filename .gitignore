@@ -9,3 +9,4 @@ mac/DerivedData
 *.obj
 win/Debug/
 win/Release/
+win/x64/
